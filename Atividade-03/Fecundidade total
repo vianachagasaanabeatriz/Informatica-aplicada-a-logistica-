@@ -1,0 +1,25 @@
+# Análise de Fecundidade Total - Estado de São Paulo
+
+Este repositório contém a análise dos dados abertos de São Paulo relacionados à fecundidade total entre os anos de 2000 e 2017.  
+A base utilizada foi a planilha `fecundidade_total.xlsx`.
+
+## 📊 Perguntas de Pesquisa
+
+1. Qual foi a evolução da **fecundidade total** no Estado de São Paulo entre 2000 e 2017?  
+2. Como variou a **idade média das mães** ao longo dos anos?  
+3. Quais **regiões administrativas (RA)** apresentaram maiores índices de fecundidade em adolescentes (15 a 19 anos)?  
+4. Em quais faixas etárias ocorreu a maior concentração de nascimentos ao longo do tempo?  
+5. Há diferenças significativas entre a **Região Metropolitana de São Paulo (RM)** e o interior?
+
+---
+
+## 📈 Principais Resultados
+
+- A fecundidade total caiu de **2,08 filhos por mulher em 2000** para **1,76 em 2010**, estabilizando em torno de **1,7 a 1,8** nos anos seguintes.  
+- A idade média das mães aumentou de **26,5 anos em 2000** para **28,1 anos em 2017**.  
+- Regiões como **Itapeva e Registro** apresentaram consistentemente maiores índices de fecundidade entre adolescentes.  
+- A faixa etária de **20 a 24 anos** concentrou a maior parte dos nascimentos no início da série, mas houve deslocamento para **25 a 29 anos** nos anos mais recentes.  
+- A **RM São Paulo** apresentou fecundidade menor e idade média mais alta em comparação ao interior.
+
+## 📌 Referência
+Fonte: Dados abertos do Governo do Estado de São Paulo.
