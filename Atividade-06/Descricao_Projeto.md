@@ -1,27 +1,37 @@
-# Descrição do Projeto – Análise de Fecundidade
+# Fundamentação Teórica – Fecundidade 📚
 
-O projeto foi desenvolvido no **Microsoft Power BI** com o objetivo de analisar dados relacionados à fecundidade no Estado de São Paulo.
+## 📌 Fecundidade
 
-A base utilizada apresenta informações sobre anos, regiões, número de nascidos, idade média das mães, fecundidade total e fecundidade por faixa etária.
+A fecundidade é um importante indicador demográfico utilizado para analisar o comportamento dos nascimentos em uma população.
 
-## 📊 Análises Desenvolvidas
+A análise desses dados permite observar mudanças ao longo do tempo e diferenças existentes entre regiões e grupos etários.
 
-O dashboard foi estruturado para responder cinco questões:
+## 👶 Número de Nascidos
 
-1. Como o número de nascidos variou ao longo dos anos no Estado de São Paulo?
-2. Quais regiões apresentaram o maior número de nascidos?
-3. Como a idade média das mães mudou ao longo dos anos?
-4. Qual faixa etária apresentou maior fecundidade em determinado ano?
-5. Quais regiões apresentaram a maior fecundidade total?
+O número de nascidos permite acompanhar a quantidade de nascimentos registrada em determinado período ou região.
 
-## 📈 Desenvolvimento
+A comparação desse indicador ao longo dos anos auxilia na identificação de variações e tendências demográficas.
 
-Os dados foram tratados e organizados para permitir sua utilização no Power BI.
+## 👩 Idade Média das Mães
 
-Foram desenvolvidas visualizações que permitem comparar períodos, regiões e faixas etárias, facilitando a identificação de diferenças e tendências presentes na base.
+A idade média das mães é outro indicador importante para compreender as características dos nascimentos.
 
-Também foram utilizados filtros para direcionar determinadas análises por ano e região.
+Sua análise ao longo do tempo permite observar possíveis mudanças na idade em que as mulheres têm filhos.
 
-## 💻 Arquivo do Projeto
+## 📊 Fecundidade por Faixa Etária
 
-`5 questões.pbix`
+A análise por faixa etária permite comparar os níveis de fecundidade entre diferentes grupos de idade.
+
+Essa divisão facilita a identificação das faixas etárias que apresentam maiores ou menores valores de fecundidade em determinado período.
+
+## 🗺️ Análise Regional
+
+A comparação entre regiões permite identificar diferenças nos indicadores de fecundidade dentro do Estado de São Paulo.
+
+Dessa forma, é possível analisar como o número de nascidos e a fecundidade variam de acordo com a localização.
+
+## 💻 Power BI
+
+O Microsoft Power BI é uma ferramenta de análise e visualização de dados que permite transformar bases de dados em gráficos e painéis interativos.
+
+Nesta atividade, o Power BI foi utilizado para organizar e representar visualmente os dados de fecundidade, permitindo responder às cinco perguntas propostas por meio de diferentes tipos de gráficos.
