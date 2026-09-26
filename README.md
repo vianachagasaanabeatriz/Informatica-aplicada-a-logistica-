@@ -192,4 +192,11 @@ A partir da inclusão da Base de Dados foi possível elaborar uma tabela dinâmi
 ATIVIDADE 1
 
 # Atividade 1 – Quem é Quem?
+
+### 📂 Arquivos da Atividade 01
+
+➡️ [Acessar a pasta da Atividade 01](./Atividade-01/)
+
+⬆️ [Voltar ao Índice](#-índice)
+
 <img width="1419" height="798" alt="Captura de tela 2026-08-22 212103" src="https://github.com/user-attachments/assets/58e68ae6-13cf-499a-94ec-48b06e082f60" />
