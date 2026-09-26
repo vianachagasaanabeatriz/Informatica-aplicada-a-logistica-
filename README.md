@@ -13,6 +13,12 @@
 ATIVIDADE 6
 # Atividade 6 – Dashboard de Fecundidade
 
+### 📂 Arquivos da Atividade 06
+
+➡️ [Acessar a pasta da Atividade 06](./Atividade-06/)
+
+⬆️ [Voltar ao Índice](#-índice)
+
 Nesta atividade foi desenvolvido um dashboard no **Microsoft Power BI** para análise dos dados de fecundidade do Estado de São Paulo.
 
 O painel utiliza diferentes tipos de gráficos para facilitar a comparação dos dados ao longo dos anos, entre regiões e entre diferentes faixas etárias.
@@ -59,6 +65,12 @@ Foram utilizados diferentes recursos visuais, como:
 ATIVIDADE 5
 # Atividade 5 – Dashboard de Empresas Multimodais
 
+### 📂 Arquivos da Atividade 05
+
+➡️ [Acessar a pasta da Atividade 05](./Atividade-05/)
+
+⬆️ [Voltar ao Índice](#-índice)
+
 ## 📌 Sobre a Atividade
 
 Nesta atividade foi desenvolvido um dashboard no **Microsoft Power BI** para análise de dados relacionados às empresas e operadores de transporte multimodal.
@@ -89,6 +101,12 @@ O arquivo contém o dashboard desenvolvido no Microsoft Power BI.
 ATIVIDADE 4
 
 # Atividade 4 – Análise de Fecundidade
+
+### 📂 Arquivos da Atividade 04
+
+➡️ [Acessar a pasta da Atividade 04](./Atividade-04/)
+
+⬆️ [Voltar ao Índice](#-índice)
 
 ## 📚 Fecundidade e Análise de Dados
 
@@ -136,6 +154,12 @@ A planilha contém informações sobre nascimentos, idade média das mães e fec
 ATIVIDADE 3
 # Atividade 3 – Operadores de Transporte Multimodal
 
+### 📂 Arquivos da Atividade 03
+
+➡️ [Acessar a pasta da Atividade 03](./Atividade-03/)
+
+⬆️ [Voltar ao Índice](#-índice)
+
 Nesta atividade foi utilizada uma base de dados sobre **Operadores de Transporte Multimodal**, com o objetivo de organizar, analisar e representar as informações por meio de tabelas e gráficos no Microsoft Excel.
 
 ## 📊 Perguntas analisadas
@@ -178,6 +202,12 @@ ATIVIDADE 2
 
 ## Dados ANTT
 # Atividade 2 – Análise de Dados ANTT   
+
+### 📂 Arquivos da Atividade 02
+
+➡️ [Acessar a pasta da Atividade 02](./Atividade-02/)
+
+⬆️ [Voltar ao Índice](#-índice)
 
 <img width="725" height="412" alt="image" src="https://github.com/user-attachments/assets/7168daf4-f4b3-498f-a429-8e739f27bce2" />
 
