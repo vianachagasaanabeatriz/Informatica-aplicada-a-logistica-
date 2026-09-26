@@ -8,9 +8,10 @@
 - [Atividade 6 – Dashboard de Fecundidade](#atividade-6--dashboard-de-fecundidade)
 
 ---
+---
 
 ATIVIDADE 6
-# Atividade 06 – Dashboard de Fecundidade 📊
+# Atividade 6 – Dashboard de Fecundidade
 
 Nesta atividade foi desenvolvido um dashboard no **Microsoft Power BI** para análise dos dados de fecundidade do Estado de São Paulo.
 
@@ -56,7 +57,7 @@ Foram utilizados diferentes recursos visuais, como:
 
 
 ATIVIDADE 5
-# Atividade 05 – Dashboard de Empresas Multimodais 📊
+# Atividade 5 – Dashboard de Empresas Multimodais
 
 ## 📌 Sobre a Atividade
 
@@ -86,7 +87,8 @@ O arquivo contém o dashboard desenvolvido no Microsoft Power BI.
 ---
 
 ATIVIDADE 4
-# Fundamentação Teórica – Análise de Fecundidade 📊
+
+# Atividade 4 – Análise de Fecundidade
 
 ## 📚 Fecundidade e Análise de Dados
 
@@ -132,7 +134,7 @@ A planilha contém informações sobre nascimentos, idade média das mães e fec
 
 
 ATIVIDADE 3
-# Análise de Operadores de Transporte Multimodal 🚛
+# Atividade 3 – Operadores de Transporte Multimodal
 
 Nesta atividade foi utilizada uma base de dados sobre **Operadores de Transporte Multimodal**, com o objetivo de organizar, analisar e representar as informações por meio de tabelas e gráficos no Microsoft Excel.
 
@@ -174,8 +176,8 @@ Microsoft Excel
 
 ATIVIDADE 2
 
-Análise de Dados ANTT
-## Análise de CEP de empresas autorizadas a fazer o transporte multimodal:    
+## Dados ANTT
+# Atividade 2 – Análise de Dados ANTT   
 <img width="721" height="400" alt="image" src="https://github.com/user-attachments/assets/96de0bf4-8115-4452-83b7-2e63d8c9cd1a" />
 
 A partir da inclusão da Base de Dados foi possível elaborar uma tabela dinâmica específica para a consulta de CEP's por estados, posteriormente um gráfico dinâmico exemplifica e demonstra toda a resposta.
@@ -188,6 +190,5 @@ A partir da inclusão da Base de Dados foi possível elaborar uma tabela dinâmi
 
 ATIVIDADE 1
 
-# Informatica-aplicada-a-logistica-
-##  Quem é quem?
+# Atividade 1 – Quem é Quem?
 <img width="1419" height="798" alt="Captura de tela 2026-08-22 212103" src="https://github.com/user-attachments/assets/58e68ae6-13cf-499a-94ec-48b06e082f60" />
