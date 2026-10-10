@@ -6,8 +6,34 @@
 - [Atividade 4 – Análise de Fecundidade](#atividade-4--análise-de-fecundidade)
 - [Atividade 5 – Dashboard de Empresas Multimodais](#atividade-5--dashboard-de-empresas-multimodais)
 - [Atividade 6 – Dashboard de Fecundidade](#atividade-6--dashboard-de-fecundidade)
+- [Atividade 7 – Dashboard Interativo de Fecundidade](#atividade-7)
+
 
 ---
+
+ATIVIDADE 7
+# 📊 Atividade 7 — Dashboard de Fecundidade no Estado de São Paulo
+
+### 📂 Arquivos da Atividade 07
+➡️ [Acessar a pasta da Atividade 07](./Atividade-07/)
+
+⬆️ [Voltar ao Índice](#índice)
+
+## 📌 Objetivo da Atividade
+
+Desenvolver um dashboard interativo no **Microsoft Power BI**, com o objetivo de analisar dados de fecundidade e natalidade no Estado de São Paulo, permitindo a comparação de informações por ano, região e faixa etária.
+
+### 1. Filtro Interativo por Região
+
+Foi implementado o visual **Chiclet Slicer**, permitindo a seleção de regiões do Estado de São Paulo por meio de botões ilustrados com bandeiras.
+
+<img width="799" height="435" alt="image" src="https://github.com/user-attachments/assets/f42b96eb-c3bf-412e-a738-67d119e1b3fa" />
+
+## 🖼️ Visualização do Dashboard
+
+
+<img width="1739" height="975" alt="image" src="https://github.com/user-attachments/assets/878f9f06-c0b3-44ba-b954-1ce8527b9ce9" />
+
 ---
 
 ATIVIDADE 6
