@@ -9,6 +9,30 @@
 - [Atividade 7 – Dashboard Interativo de Fecundidade](#atividade-7)
 
 
+
+
+
+
+# 📊 Atividade 8 – Análise de Dados Ice Cream no Excel
+
+### 📁 Arquivos da Atividade 08
+➡️ [Acessar a pasta da Atividade 08](./Atividade-08/)
+
+⬆️ [Voltar ao Índice](#índice)
+
+## 📌 Objetivo da Atividade
+
+Desenvolver uma análise de dados no **Microsoft Excel**, utilizando a base de dados **Ice Cream**, com o objetivo de analisar a relação entre a temperatura e a receita obtida com a venda de sorvetes.
+
+A atividade envolveu a organização dos dados em uma **Tabela**, a criação de uma **Tabela Dinâmica**, a elaboração de um **Gráfico de Dispersão** e a aplicação de uma **Linha de Tendência Linear**.
+
+## 🖼️ Visualização da Atividade
+
+A imagem apresenta a tabela de dados e o gráfico desenvolvido no Microsoft Excel, incluindo a linha de tendência linear e sua respectiva equação.
+
+<img width="739" height="337" alt="image" src="https://github.com/user-attachments/assets/585c7a8f-e912-44d2-843a-2ddae36067c1" />
+
+
 ---
 
 ATIVIDADE 7
