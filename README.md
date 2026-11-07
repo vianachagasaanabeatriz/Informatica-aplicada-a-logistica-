@@ -8,7 +8,8 @@
 - [Atividade 6 – Dashboard de Fecundidade](#atividade-6--dashboard-de-fecundidade)
 - [Atividade 7 – Dashboard de Fecundidade](#atividade-7)
 
-
+# 📊 Atividade 12 – Expectativa de vida no mundo
+<img width="1746" height="984" alt="image" src="https://github.com/user-attachments/assets/cd72c120-7297-49b1-aeab-7c9c506995fc" />
 
 
 
