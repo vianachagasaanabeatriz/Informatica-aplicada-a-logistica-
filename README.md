@@ -20,6 +20,17 @@
 <img width="864" height="548" alt="image" src="https://github.com/user-attachments/assets/eca9c5ab-9e3b-47d8-9ba5-c9f5ca524aed" />
 
 
+## 🖼️ Investimentos Captados: POWER BI
+<img width="1702" height="967" alt="image" src="https://github.com/user-attachments/assets/6d06aef0-3906-4426-9b0d-88b3994a73c0" />
+
+# VÍDEO POWER BI:
+
+
+
+
+
+
+
 # 📊 Atividade 12 – Expectativa de vida no mundo
 <img width="1746" height="984" alt="image" src="https://github.com/user-attachments/assets/cd72c120-7297-49b1-aeab-7c9c506995fc" />
 
