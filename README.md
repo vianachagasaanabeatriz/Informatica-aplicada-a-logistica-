@@ -8,11 +8,22 @@
 - [Atividade 6 – Dashboard de Fecundidade](#atividade-6--dashboard-de-fecundidade)
 - [Atividade 7 – Dashboard de Fecundidade](#atividade-7)
 
+
+# 📊 Prova – Análise de Dados de Idade Média de casamentos: um comparativo entre homens e mulheres 
+
+## 🖼️ Visualização modelo construído através do EXCEL:
+<img width="672" height="421" alt="image" src="https://github.com/user-attachments/assets/72e350de-148b-4b39-bdbf-24f8aff17c3f" />
+
+
+
+## 🖼️ Visualização modelo construído através do COLAB:
+<img width="864" height="548" alt="image" src="https://github.com/user-attachments/assets/eca9c5ab-9e3b-47d8-9ba5-c9f5ca524aed" />
+
+
 # 📊 Atividade 12 – Expectativa de vida no mundo
 <img width="1746" height="984" alt="image" src="https://github.com/user-attachments/assets/cd72c120-7297-49b1-aeab-7c9c506995fc" />
 
-
-
+----
 
 # 📊 Atividade 8 – Análise de Dados Ice Cream no Excel
 
