@@ -29,16 +29,14 @@
 
 # VÍDEO POWER BI:
 
-
-
 https://github.com/user-attachments/assets/2758e669-6c23-4f80-9e8e-8ca44f1bcd8c
 
 ---
 
-# 📊 Atividade 12 – Expectativa de vida no mundo
+# 📊 Atividade 9 – Expectativa de vida no mundo
 <img width="1746" height="984" alt="image" src="https://github.com/user-attachments/assets/cd72c120-7297-49b1-aeab-7c9c506995fc" />
 
-----
+---
 
 # 📊 Atividade 8 – Análise de Dados Ice Cream no Excel
 
